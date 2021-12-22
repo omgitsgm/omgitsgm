@@ -2,7 +2,7 @@
 <h2>Seja muito bem-vindo(a) ao meu perfil. ☺👋</h2>
 
 <div>
-  <a href="www.github.com/omgitsgm">
+  <a href="https://github.com/omgitsgm">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&layout=compact&langs_count=7&theme=dark"/>
   </a>
