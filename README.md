@@ -12,7 +12,7 @@
 <p>Oi, tudo bem?</p>
 <p>O meu nome é Gabriel Mendes, eu tenho 20 anos e atualmente estou cursando Bacharelado em Ciência da Computação.</p>
 
-<p>Sobre a minha relação com a programação, atualmente posso dizer que estou focado em aprender tecnologias para desenvolvimento web, como <strong>HTML, CSS e Javascript</strong>. Além disso, eu estou estudando linguagens como <strong>C, Java e Python</strong>, pois são as principais linguagens de programação utilizadas na minha faculdade. Eu ainda não tenho uma preferência por back-end ou front-end.</p>
+<p>Sobre a minha relação com a programação, atualmente posso dizer que estou focado em aprender tecnologias para desenvolvimento web, como <strong>HTML, CSS e Javascript</strong>. Além disso, eu estudo linguagens como <strong>C, Java e Python</strong>, pois são as principais linguagens de programação utilizadas na minha faculdade.</p>
 <p>Para mim, é um prazer continuar aprendendo.</p>
 
 <h3>Linguagens</h3>
