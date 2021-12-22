@@ -26,6 +26,9 @@
 </div>
   
 <h3>Redes Sociais:</h3>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gabriel-mendes-ab9583194" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-mendes-ab9583194?trk=profile-badge">Gabriel Mendes</a></div>
+              
 <div>
   <a href="https://www.linkedin.com/in/gabriel-mendes-ab9583194/"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494471.png?token=exp=1640051785~hmac=70b85791ceeccb252d353fd9160af292" height="70px" title="Linkedin"/></a> <!--Linkedin-->
   <a href="https://www.instagram.com/omgitsgm"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670274.png?token=exp=1640052189~hmac=90d0286a88a1939756f6d0dc89dd0ba8" height="70px" title="Instagram"/></a> <!--Instagram-->
