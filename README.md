@@ -18,12 +18,12 @@ Para mim, é um prazer continuar aprendendo.
 
 ### *&lt;Linguagens/&gt;*
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968222.png" height="70px" title="HTML5"/> <!--HTML-->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968201.png" height="70px" title="CSS3"/> <!--CSS-->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png" height="70px" title="Javascript"/> <!--JS-->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" height="70px" title="Python"/> <!--Python-->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968231.png" height="70px" title="Java"/> <!--Java-->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968187.png" height="70px" title="Linguagem C"/> <!--C-->
+  <a href="https://github.com/omgitsgm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968222.png" height="70px" title="HTML5"/></a> <!--HTML-->
+  <a href="https://github.com/omgitsgm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968201.png" height="70px" title="CSS3"/></a> <!--CSS-->
+  <a href="https://github.com/omgitsgm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968238.png" height="70px" title="Javascript"/></a> <!--JS-->
+  <a href="https://github.com/omgitsgm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" height="70px" title="Python"/></a> <!--Python-->
+  <a href="https://github.com/omgitsgm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968231.png" height="70px" title="Java"/></a> <!--Java-->
+  <a href="https://github.com/omgitsgm"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968187.png" height="70px" title="Linguagem C"/></a> <!--C-->
 </div> 
   
 ### Redes Sociais
