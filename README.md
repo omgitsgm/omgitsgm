@@ -13,7 +13,7 @@
 Oi, tudo bem?
 O meu nome é Gabriel Mendes, eu tenho 20 anos e atualmente estou cursando Bacharelado em Ciência da Computação.
 
-Atualmente eu estou focado em aprender **HTML, CSS e Javascript**, mas também estudo **Java, Python e C**, por conta da universidade.<br><br>
+Atualmente eu estou focado em aprender **Python**, mas eu já estudei um pouco de **Java, C e, para desenvolvimento web, HTML, CSS e JS**.<br><br>
 Para mim, é um prazer continuar aprendendo.
 
 ### *&lt;Linguagens/&gt;*
