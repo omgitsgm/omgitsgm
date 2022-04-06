@@ -10,10 +10,12 @@
   
 ## 💬 Sobre mim
 
-Oi, tudo bem?
-O meu nome é Gabriel Mendes, eu tenho 20 anos e atualmente estou cursando Bacharelado em Ciência da Computação.
+Oi, tudo bem? 
 
-Eu desenvolvi minha base de conhecimento em programação com **C** e fui introduzido ao conceito de Programação Orientada a Objeto utilizando **Java**. Atualmente eu estou estudando **Python**. Já tive contato com tecnologias de desenvolvimento web, como **HTML**, **CSS**, **JS** e **React**. 
+O meu nome é Luiz Gabriel, eu tenho 20 anos e atualmente estou cursando Bacharelado em Ciência da Computação (4/8). Aqui no meu Github, você encontrará alguns dos meus projetos mais recentes e ficará por dentro do que eu estou estudando no momento. 
+
+Já tive contato com algumas linguagens como C, Java, Python, HTML, CSS e JS. Atualmente estou estudando Java, HTML e CSS.
+ 
 
 ### *&lt;Linguagens/&gt;*
 <div>
