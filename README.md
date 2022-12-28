@@ -6,10 +6,10 @@
 
   <!-- Dark -->
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&theme=dracula&show_icons=true#gh-dark-mode-only" title="Alguns status do meu Github."/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6&custom_title=Linguagens mais utilizadas#gh-dark-mode-only" title="As minhas linguagens mais utilizadas."/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6#gh-dark-mode-only" title="As minhas linguagens mais utilizadas."/>
   <!-- Light -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&theme=dracula&show_icons=true#gh-light-mode-only" title="Alguns status do meu Github."/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6&custom_title=Linguagens mais utilizadas#gh-light-mode-only" title="As minhas linguagens mais utilizadas."/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&theme=default&show_icons=true#gh-light-mode-only" title="Alguns status do meu Github."/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=default&show_icons=true&layout=compact&langs_count=6#gh-light-mode-only" title="As minhas linguagens mais utilizadas."/>
 </div>
 
 <hr>
