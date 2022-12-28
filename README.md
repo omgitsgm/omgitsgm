@@ -2,14 +2,31 @@
 <h2 align="center">Seja bem-vindo(a) ao meu perfil. 😀❤️</h2>
 
 <div align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Github Stats -->
+  <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=omgitsgm&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=omgitsgm&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=omgitsgm&show_icons=true" height="160px" title="Algumas estatísticas do meu Github"/>
+  </picture>
 
-  <!-- Dark -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&theme=dracula&show_icons=true#gh-dark-mode-only" title="Alguns status do meu Github."/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6#gh-dark-mode-only" title="As minhas linguagens mais utilizadas."/>
-  <!-- Light -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&theme=default&show_icons=true#gh-light-mode-only" title="Alguns status do meu Github."/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=default&show_icons=true&layout=compact&langs_count=6#gh-light-mode-only" title="As minhas linguagens mais utilizadas."/>
+  <!-- Most used Languages -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&show_icons=true&layout=compact&langs_count=6" height="160px" title="As linguagens que eu mais utilizo"/>
+  </picture>
 </div>
 
 <hr>
