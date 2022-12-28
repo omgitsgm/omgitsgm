@@ -22,7 +22,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=dracula&show_icons=true&layout=compact&langs_count=6"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&theme=default&show_icons=true&layout=compact&langs_count=6"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&show_icons=true&layout=compact&langs_count=6" height="160px" title="As linguagens que eu mais utilizo"/>
