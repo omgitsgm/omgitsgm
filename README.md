@@ -46,7 +46,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="70px" title="Java">
   <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" height="70px" title="Python">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="70px" title="JavaScript">
-  <!-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="70px" title="TypeScript"> -->
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="70px" title="TypeScript">
   <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" height="70px" title="HTML">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="70px" title="CSS">
 </div>
