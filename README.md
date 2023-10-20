@@ -33,7 +33,7 @@
   
 <h2 align="center">💬 Sobre mim</h2>
 <p>Oi, tudo bem?</p> 
-<p>O meu nome é Luiz Gabriel, eu tenho 21 anos e adoro criar coisas novas a partir da programação. Atualmente eu estou realizando um Bacharelado em Ciência da Computação (5/8) na Universidade Presbiteriana Mackenzie e atuo como Application Developer Intern na IBM.</p>
+<p>O meu nome é Luiz Gabriel, eu tenho 22 anos e adoro criar coisas novas através da programação. Atualmente eu estou realizando um Bacharelado em Ciência da Computação (5/8) na Universidade Presbiteriana Mackenzie e atuo como Application Developer na IBM.</p>
 <p>Aqui no meu Github, você encontrará alguns dos meus projetos pessoais mais recentes e ficará por dentro do que eu estou estudando no momento. Eu espero que você goste 😁.</p>
 
 <hr>
