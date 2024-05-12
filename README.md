@@ -55,7 +55,6 @@
 
 <div align="center">
   <h2>Contato</h2>
-  <p>Quer entrar em contato comigo por alguma razão? Me envie uma mensagem no <a href="https://www.linkedin.com/in/luiz-gabriel-profirio-mendes-ab9583194">Linkedin</a>!
   <div style="padding-top:10px">
     <a href="https://www.linkedin.com/in/luiz-gabriel-profirio-mendes/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="70px" title="Linkedin"></a>
   </div>
