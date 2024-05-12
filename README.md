@@ -33,7 +33,7 @@
   
 <h2 align="center">💬 Sobre mim</h2>
 <p>Oi, tudo bem?</p> 
-<p>O meu nome é Luiz Gabriel, eu tenho 22 anos e adoro criar coisas novas através da programação. Atualmente eu estou realizando um Bacharelado em Ciência da Computação (5/8) na Universidade Presbiteriana Mackenzie e atuo como Application Developer na IBM.</p>
+<p>O meu nome é Gabriel, tenho 23 anos e adoro usar a programação para criar coisas e resolver problemas. Atualmente eu estou realizando um Bacharelado em Ciência da Computação (6/8) na Universidade Presbiteriana Mackenzie.</p>
 <p>Aqui no meu Github, você encontrará alguns dos meus projetos pessoais mais recentes e ficará por dentro do que eu estou estudando no momento. Eu espero que você goste 😁.</p>
 
 <hr>
@@ -57,7 +57,7 @@
   <h2>Contato</h2>
   <p>Quer entrar em contato comigo por alguma razão? Me envie uma mensagem no <a href="https://www.linkedin.com/in/luiz-gabriel-profirio-mendes-ab9583194">Linkedin</a>!
   <div style="padding-top:10px">
-    <a href="https://www.linkedin.com/in/luiz-gabriel-profirio-mendes-ab9583194/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="70px" title="Linkedin"></a>
+    <a href="https://www.linkedin.com/in/luiz-gabriel-profirio-mendes/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="70px" title="Linkedin"></a>
   </div>
 </div>
 <hr>
