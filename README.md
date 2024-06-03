@@ -29,7 +29,13 @@
   </picture>
 </div>
 
-<hr>
+---
+
+<div align="center">
+
+  <img src="readme-files/octocat-1717422957778.png" width=400px title="My Octocat" alt="Meu octocat">
+
+</div>
   
 <h2 align="center">💬 Sobre mim</h2>
 <p>Oi, tudo bem?</p> 
