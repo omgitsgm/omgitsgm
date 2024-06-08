@@ -6,10 +6,10 @@
 <div align="left">
 
   <!-- Github Stats -->
-  <img href="#" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&show_icons=true&theme=dracula&bg_color=00000000" height="160px" title="Algumas estatísticas do meu Github."/>
+  <img href="#" src="https://github-readme-stats.vercel.app/api?username=omgitsgm&show_icons=true&theme=dracula" height="160px" title="Algumas estatísticas do meu Github."/>
 
   <!-- Most used Languages -->
-  <img href="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&show_icons=true&layout=compact&langs_count=6&theme=dracula&bg_color=00000000" height="160px" title="As linguagens que eu mais utilizei em projetos pessoais."/>
+  <img href="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgitsgm&show_icons=true&layout=compact&langs_count=6&theme=dracula" height="160px" title="As linguagens que eu mais utilizei em projetos pessoais."/>
 
 </div>
 
