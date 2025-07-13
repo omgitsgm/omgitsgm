@@ -1,4 +1,4 @@
-# Luiz Gabriel Profirio Mendes
+# Gabriel Mendes
 
 ## Software Developer
 
